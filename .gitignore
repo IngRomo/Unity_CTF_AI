@@ -103,23 +103,3 @@ InitTestScene*.unity*
 venv/
 .venv/
 .env
-# Unity
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
-*.log
-
-# Python / venvs
-.venv/
-venv/
-venv-mlagents/
-.env
-
-# OS/editor
-.DS_Store
-Thumbs.db
-.vscode/
